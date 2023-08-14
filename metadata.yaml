@@ -1,0 +1,24 @@
+_repo: Hadrian-s-Wall_71350
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Mothersole, Jessie
+    gutenberg_agent_id: '41015'
+    url: http://www.gutenberg.org/2009/agents/41015
+description: ''
+gutenberg_issued: '2023-08-06'
+identifiers:
+  gutenberg: '71350'
+language: en
+pgterms:marc905: 20230802131959mothersole
+pgterms:marc906: '1922'
+pgterms:marc907: GB
+publication_note: '  $aLondon :$bJohn Lane The Bodley Head Limited, $c1922, pubdate
+  1924.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Hadrian's Wall
+url: http://www.gutenberg.org/ebooks/71350
