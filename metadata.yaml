@@ -1,11 +1,16 @@
 _repo: Hadrian-s-Wall_71350
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 71350-h/images/img-cover.jpg
 creator:
   author:
     agent_name: Mothersole, Jessie
     gutenberg_agent_id: '41015'
     url: http://www.gutenberg.org/2009/agents/41015
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71350#Hadrian-s-Wall
 gutenberg_issued: '2023-08-06'
 identifiers:
   gutenberg: '71350'
